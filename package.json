@@ -1,0 +1,17 @@
+{
+  "name": "dsa_with-_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data structure and algorithm",
+    "javascript data structure",
+    "javascript algorithm",
+    "javascript dsa"
+  ],
+  "author": "Munim Rahman",
+  "license": "ISC"
+}
