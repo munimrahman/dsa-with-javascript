@@ -60,4 +60,4 @@ const binarySearch = (array, targetValue) => {
 const array = [3, 4, 6, 8, 10, 12, 16, 20, 24, 28, 32];
 binarySearch(array, 16);
 
-// module.exports = binarySearch;
+module.exports = binarySearch;
